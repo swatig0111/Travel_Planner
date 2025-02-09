@@ -37,6 +37,19 @@ The **Travel Planner** is a full-stack web application designed to help users pl
 - **APIs:** Google Maps API for destination data and Currency Exchange API for currency conversion.
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Travel Planner Home](./assets/img1.jpg)
+![Travel Planner Home](./assets/Delhi1.png)
+![Travel Planner Home](./assets/Delhi2.png)
+![Travel Planner Home](./assets/Surat1.png)
+![Travel Planner Home](./assets/Surat2.png)
+![Travel Planner Home](./assets/Paris1.png)
+![Travel Planner Home](./assets/Paris2.png)
+
+
+---
 
 ## 📦 Setup and Installation
 
