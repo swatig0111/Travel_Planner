@@ -11,6 +11,16 @@ The **Travel Planner** is a full-stack web application designed to help users pl
 - **Responsive UI:** A sleek and user-friendly interface built with React.
 
 ---
+## 📦 Setup and Installation
+
+### **Prerequisites:**
+- **Node.js & npm** – To run the React frontend.
+- **Golang** – To run the backend server.
+- API keys for **Google Maps** services.
+
+### **Clone the Repository:**
+- git clone https://github.com/yourusername/travel-planner.git
+- cd travel-planner
 
 ## 🛠 Technologies Used
 
@@ -49,19 +59,8 @@ The **Travel Planner** is a full-stack web application designed to help users pl
 ![Travel Planner Home](./assets/Paris2.png)
 
 
----
 
-## 📦 Setup and Installation
 
-### **Prerequisites:**
-- **Node.js & npm** – To run the React frontend.
-- **Golang** – To run the backend server.
-- API keys for **Google Maps** services.
 
-### **Clone the Repository:**
-
-```bash
-git clone https://github.com/yourusername/travel-planner.git
-cd travel-planner
 
  
